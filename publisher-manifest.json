@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "2b0c93777b0bb15f6fe56980",
+  "owner": "pcndypfb",
+  "repo": "page-086a8c19d673d016e266885f",
+  "title": "TT",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "086a8c19d673d016e266885f",
+      "a": "TT",
+      "b": "2027官方最新地址导航",
+      "entity": "TT",
+      "brand": "TT",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "5c9e1146d010938281fb319a688825397a8681a88a75079944ad793cc62c855e",
+      "content": {
+        "primary_entity": "TT",
+        "keyword1": "TT",
+        "keyword2": "2027官方最新地址导航",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备挑选客户端，Windows、macOS、Android、iOS 与路由器各有对应版本。",
+          "AI_CLIENTS_TITLE": "客户端匹配设备",
+          "AI_CLOSING_TEXT": "选好套餐并导入订阅，即可让常用设备接入 TT 加速网络。",
+          "AI_CLOSING_TITLE": "开始配置 TT",
+          "AI_DESCRIPTION": "，TT 面向需要稳定访问海外网络与低延迟游戏体验的用户，提供基础版、旗舰版与团队版三档选择。基础版每月 100GB 流量、3 台设备，适合轻量浏览；旗舰版每月 300GB、5 台设备，附带 IPLC 专线与流媒体解锁；团队版每月 1000GB、20 台设备，支持企业定制路由。年付价格分别为 ¥150、¥350、¥850，可按设备数量与流量需求对比订阅。",
+          "AI_FEATURES_INTRO": "从流量、设备数和线路类型三个角度挑选合适的套餐。",
+          "AI_FEATURES_TITLE": "套餐要点",
+          "AI_FEATURE_TEXT_1": "基础版 100GB/月、3 台设备；旗舰版 300GB/月、5 台设备；团队版 1000GB/月、20 台设备。",
+          "AI_FEATURE_TITLE_1": "按流量选档",
+          "AI_FEATURE_TEXT_2": "手机与电脑可用同一订阅；路由器端建议单独配置，并按客户端文档导入。",
+          "AI_FEATURE_TITLE_2": "按设备匹配",
+          "AI_FEATURE_TEXT_3": "月付适合短期试用，年付基础版 ¥150、旗舰版 ¥350、团队版 ¥850，周期越长单月成本越低。",
+          "AI_FEATURE_TITLE_3": "按周期订阅",
+          "AI_GUIDE_INTRO": "三步完成从选套餐到客户端配置的流程。",
+          "AI_GUIDE_TITLE": "配置路径",
+          "AI_HERO_INTRO": "TT 提供多档海外加速套餐，覆盖流媒体、网页访问与游戏加速等场景。用户可根据每月流量、设备数量和线路需求选择基础版、旗舰版或团队版，并通过对应客户端导入订阅。",
+          "AI_HERO_SUBTITLE": "多设备海外加速与流媒体解锁",
+          "AI_HIGHLIGHT_1": "基础版 100GB 流量、3 台设备",
+          "AI_HIGHLIGHT_2": "旗舰版含 IPLC 专线游戏优化",
+          "AI_HIGHLIGHT_3": "团队版 1000GB、20 台设备",
+          "AI_PLANS_INTRO": "对比流量、设备数与线路类型，基础版适合轻量使用，旗舰版兼顾流媒体与游戏，团队版面向多设备与定制路由。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据月流量、设备数量和使用场景，在基础版、旗舰版与团队版之间选择一档。",
+          "AI_STEP_TITLE_1": "选择服务",
+          "AI_STEP_TEXT_2": "确认设备系统与客户端版本，核对套餐支持的设备数量是否覆盖常用终端。",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TEXT_3": "按对应客户端文档导入订阅信息，完成节点连接与网络测试。",
+          "AI_STEP_TITLE_3": "依客户端文档配置",
+          "AI_VISUAL_TITLE": "TT 加速套餐一览",
+          "AI_FAQ_ANSWER_1": "打开客户端选择订阅导入，粘贴 TT 提供的订阅地址并更新，节点列表会自动载入，选中节点即可连接。",
+          "AI_FAQ_ANSWER_2": "基础版支持 3 台设备，旗舰版支持 5 台，团队版支持 20 台。同一时间超出数量时，后连接的设备会挤掉先前的连接，建议按实际设备数选择。",
+          "AI_FAQ_ANSWER_3": "基础版每月 100GB，旗舰版每月 300GB，团队版每月 1000GB。流量按自然月重置，订阅周期内未用完不结转。",
+          "AI_FAQ_ANSWER_4": "旗舰版包含 IPLC 专线节点，针对游戏流量做了路由优化，延迟通常比普通线路更低；具体延迟取决于本地网络到入口节点的实际链路。",
+          "AI_FAQ_ANSWER_5": "月付和年付均可，年付价格约为十个月费用：基础版 ¥150/年、旗舰版 ¥350/年、团队版 ¥850/年。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制、流量规则与付费周期。",
+          "AI_FAQ_QUESTION_1": "TT 订阅如何导入客户端？",
+          "AI_FAQ_QUESTION_2": "一个账号可以同时几台设备在线？",
+          "AI_FAQ_QUESTION_3": "套餐流量用完后怎么处理？",
+          "AI_FAQ_QUESTION_4": "旗舰版的 IPLC 专线适合打游戏吗？",
+          "AI_FAQ_QUESTION_5": "月付和年付有什么区别？",
+          "AI_FAQ_TITLE": "常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "zchcz.cn",
+    "host": "zchcz.cn"
+  },
+  "file_hashes": {
+    "index.html": "d86a6732befd98dd9449cb2efb54c1f32a8c87de2391b540f59ed85c67a18557",
+    "sitemap.xml": "5019e39b990389dc7d931a69e65bed014c909e7955445f7905200c2c40ef5056",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "390c4db288dc6c2a0a95b1da8824791db63de230e3f4c812392f00c98c345b6e",
+    "robots.txt": "ae7ac2da226419a9169699087953f1156a21925d7d74689b84893d6794816f34",
+    "5bb024bb0885d35f799202b4c86d6933.txt": "488d8dda8e37341c8b5d0dab241982bfd66ec408e715895a1c25356334a88c66"
+  },
+  "revision": "e59f422efef258792d1d52dcc7c78eb9997c6a5a56c30d49a5487a8955110c99"
+}
